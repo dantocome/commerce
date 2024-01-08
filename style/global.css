@@ -75,28 +75,33 @@ h1{
 }
 .workout{
     display: flex;
-    justify-content:space-between;
-    padding-left: 40px;
-    padding-right: 40px;
-    
-    
-
-    
-}
-.para1{
-    padding-top: 100px;
-    
-
-}
-.para2{
-    margin-top: -20px;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-top: 70px;
+   
 }
 .container{
-    margin-top: 200px;
+    margin: auto;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+}
+.para1{
+    flex-basis: 50%;
+    min-width: 300px;
+}
+.para1 img{
+    max-width: 100%;
+    padding: 50px 0;
+}
+
+.container{
+    
     
 }
 .pa{
     color: #333;
     font-size: 20px;
-    padding-top: 20px;
+    
 }
