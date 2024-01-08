@@ -6,7 +6,43 @@
     text-decoration: none;
     box-sizing: border-box;
     color-scheme: inherit;
-}
-p{
     font-family: "Poppins";
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 300,
+  'GRAD' 0,
+  'opsz' 24,
+}
+   #menu{
+      display: none;
+  }
+.menu{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+a span:nth-child(1){
+    font-size: 40px;
+}
+
+
+nav ul{
+  flex: 1;
+  text-align: right;
+
+}
+nav ul li{
+    display: inline-block;
+    padding-right: 20px;
+    color: #333;
+    font-size: 17px;
+    
+}
+
+nav{
+    display: flex;
+    margin-top: -70px;
 }
