@@ -16,8 +16,9 @@
       display: none;
   }
 .menu{
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 20px;
 }
 a span:nth-child(1){
     font-size: 40px;
@@ -40,11 +41,29 @@ nav ul li{
 .img{
     margin-top: -10px;
 }
+.logos{
+    width: 150px;
+}
 
 nav{
     display: flex;
-    margin-top: -70px;
+    margin-top: -30px;
 }
 .navbar{
     background: radial-gradient(#fff, #ffd6d6);
+}
+h1{
+    font-size: 55px;
+}
+.workout{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.para1{
+    margin-top: 150px;
+}
+.container{
+    margin-top: 200px;
+    
 }
