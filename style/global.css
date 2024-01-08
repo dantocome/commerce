@@ -90,6 +90,7 @@ h1{
 .para1{
     flex-basis: 50%;
     min-width: 300px;
+    
 }
 .para1 img{
     max-width: 100%;
@@ -104,4 +105,11 @@ h1{
     color: #333;
     font-size: 20px;
     
+}
+.outfit-container{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 30px;
+    margin-top: 70px;
 }
