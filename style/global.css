@@ -76,6 +76,8 @@ h1{
 .workout{
     display: flex;
     justify-content: space-around;
+    padding-left: 20px;
+    padding-right: 20px;
     
 }
 .para1{
