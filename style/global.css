@@ -40,6 +40,7 @@ button span:nth-child(1){
     color: white;
     border: none;
     border-radius: 50px;
+    margin-top: 20px;
 }
 
 
@@ -83,4 +84,9 @@ h1{
 .container{
     margin-top: 200px;
     
+}
+.pa{
+    color: #333;
+    font-size: 20px;
+    padding-top: 20px;
 }
