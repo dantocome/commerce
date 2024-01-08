@@ -75,15 +75,17 @@ h1{
 }
 .workout{
     display: flex;
-    justify-content:center;
-    gap: 70px;
+    justify-content:space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+    
     
 
     
 }
 .para1{
     padding-top: 100px;
-    padding-left: 40px;
+    
 
 }
 .para2{
