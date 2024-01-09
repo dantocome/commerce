@@ -118,6 +118,13 @@ i{
     justify-content: center;
     gap: 25px;
 }
+.main-features-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    margin: 80px;
+}
 .feature-text {
     text-align: center;
     position: relative; 
