@@ -112,3 +112,12 @@ h1{
 i{
     color: #ff523b;
 }
+.main-features{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+.feature-main{
+    
+}
