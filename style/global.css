@@ -192,21 +192,36 @@ h2{
     align-items: center;
     justify-content: center;
     gap: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 i{
     color: #ff523b;
 }
 .quots-1 i{
     color:  #ff523b;
-    font-size: 30px;
+    font-size: 40px;
     
 }
 .quote-1{
     text-align: center;
-    min-width: 350px;
+    min-width: 150px;
     height: 400px;
     background-color: white;
     padding: 40px;
     box-shadow: 3px 6px 7px;
     
+}
+.users{
+    border-radius: 100%;
+    width: 80px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.test{
+    font-size: 14px;
+}
+.name{
+    font-weight: 700;
+    color: rgb(113, 112, 112);;
 }
