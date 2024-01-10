@@ -182,3 +182,10 @@ h2{
     line-height: 5;
     color: rgb(113, 112, 112);
 }
+.feature-main{
+    transition: transform 0.5s;
+}
+.feature-main:hover{
+    transform: translateY(-5px)
+    
+}
