@@ -109,9 +109,7 @@ h1{
     gap: 30px;
     margin-top: 70px;
 }
-i{
-    color: #ff523b;
-}
+
 .main-features{
     display: flex;
     align-items: center;
@@ -187,5 +185,28 @@ h2{
 }
 .feature-main:hover{
     transform: translateY(-5px)
+    
+}
+.quote-modules{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+i{
+    color: #ff523b;
+}
+.quots-1 i{
+    color:  #ff523b;
+    font-size: 30px;
+    
+}
+.quote-1{
+    text-align: center;
+    min-width: 350px;
+    height: 400px;
+    background-color: white;
+    padding: 40px;
+    box-shadow: 3px 6px 7px;
     
 }
