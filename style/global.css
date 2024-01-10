@@ -211,8 +211,13 @@ i{
     background-color: white;
     padding: 40px;
     box-shadow: 0 0 15px rgb(231, 230, 230);
+    transition: transform 0.5s;
     
 }
+.quote-1:hover{
+    transform: translateY(-5px);
+}
+
 .users{
     border-radius: 100%;
     width: 80px;
