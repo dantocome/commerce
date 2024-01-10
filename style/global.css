@@ -239,6 +239,7 @@ i{
     align-items: center;
     justify-content: center;
     gap: 40px;
+    padding: 50px 0 100px;
 }
 .support{
     filter: grayscale(100%);
@@ -251,26 +252,40 @@ i{
 }
 .foot{
     color:  rgb(113, 112, 112);
+    
 }
 h4{
     color: white;
+    l;
 }
 .google{
     width: 140px;
     height: 40px;
 }
 li{
-    color: white;
+    color:  rgb(113, 112, 112);
     list-style: none;
+    
 }
 .linkages{
     display: flex;
-    gap: 20px;
+    gap: 160px;
 }
 .footer-units{
     display: flex;
-    padding: 100px;
+    padding: 70px;
+    gap: 50px;
+    
+    
 }
 h3{
     color: white;
+}
+.sinha{
+    text-align: center;
+    color:  rgb(113, 112, 112);
+    
+}
+.gos{
+   text-align: center;
 }
