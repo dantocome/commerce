@@ -315,7 +315,13 @@ hr{
    border: 1px solid  rgb(113, 112, 112);;
     
 }
+.cart-number{
+    color: #ff523b;
+    margin-top: -24px;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
 .cart-container{
-    background: #ff523b;
-    width: 80px;
+    display: flex;
 }
