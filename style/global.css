@@ -70,6 +70,9 @@ nav{
 .navbar{
     background: radial-gradient(#fff, #ffd6d6);
 }
+.cart-navbar{
+    background-color: rgb(203, 194, 194);
+}
 h1{
     font-size: 52px;
 }
@@ -311,4 +314,8 @@ h3{
 hr{
    border: 1px solid  rgb(113, 112, 112);;
     
+}
+.cart-container{
+    background: #ff523b;
+    width: 80px;
 }
