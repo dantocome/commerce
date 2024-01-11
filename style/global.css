@@ -252,6 +252,7 @@ i{
 }
 .foot{
     color:  rgb(113, 112, 112);
+    margin-top: 20px;
     
 }
 h4{
@@ -261,6 +262,7 @@ h4{
 .google{
     width: 140px;
     height: 40px;
+    margin-top: 20px;
 }
 li{
     color:  rgb(113, 112, 112);
@@ -269,13 +271,16 @@ li{
 }
 .linkages{
     display: flex;
-    gap: 160px;
-    border: 1px solid red;
     width: 400px;
+    margin-left: 20px;
+    
 }
 .list{
-    border: 1px solid green;
     width: 200px;
+    
+}
+ul{
+    margin-top: 20px;
     
 }
 .footer-units{
@@ -283,16 +288,27 @@ li{
     padding: 70px;
     gap: 50px;
     
-    
 }
+
 h3{
     color: white;
 }
 .sinha{
     text-align: center;
     color:  rgb(113, 112, 112);
+    padding: 20px;
     
 }
 .gos{
    text-align: center;
+}
+.logoss{
+    width: 200px;
+}
+.copy-right{
+    padding: 0 15px
+}
+hr{
+   border: 1px solid  rgb(113, 112, 112);;
+    
 }
