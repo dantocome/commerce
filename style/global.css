@@ -332,5 +332,13 @@ hr{
     position: absolute;
     
 }
+header{
+    top: 0;
+    position: sticky;
+}
+
+.feature-text{
+    z-index: -2;
+}
 
 
