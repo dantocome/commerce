@@ -11,11 +11,11 @@ function cartNumbers(){
     productNumbers = parseInt(productNumbers);
 
     if(productNumbers){
-        localStorage.setItem("cartsNumbers", productNumbers + 1);
-        document.querySelector(".cart-container span").textContent = productNumbers + 1;
+        localStorage.setItem("cartNumbers", productNumbers + 1);
+        document.querySelector(".cart span").textContent = productNumbers + 1;
     }else{
         localStorage.setItem("cartNumbers", 1);
-        document.querySelector("cart-container span").textContent = 1;
+        document.querySelector(".cart span").textContent = 1;
     }
     
     
